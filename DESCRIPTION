@@ -1,0 +1,15 @@
+Package: tutorialPackage
+Title: Tutoriel Remi 
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Michel",
+           family = "Giner",
+           role = "cre",
+           email = "michel.giner@cirad.fr")
+Description: This package is to test.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Suggests: 
+    testthat
